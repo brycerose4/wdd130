@@ -6,6 +6,6 @@ body {
     line-height: 1.5em;
 }
 #active {
-    background-color: white;
+    background-color: rgb(153, 137, 137);
     color: steelblue;
 }

@@ -1,0 +1,32 @@
+
+header {
+    text-align: center;
+    background-color: pink;
+}
+main {
+    background-color: pink;
+}
+body {
+    text-align: center;
+    background-color: pink;
+}
+img {
+    width: 20%
+}
+h1 {
+    color: white;
+    text-align: center;
+    background-color: pink;
+    --paragraph-color-on-color: #FFFFFF;
+}
+h3 {
+    text-align: center;
+    background-color: pink;
+}
+footer {
+    text-align: center;
+    background-color: pink;
+}
+.home-title:hover{
+    color:black;
+}
