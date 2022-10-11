@@ -1,12 +1,12 @@
 nav a {
     text-align: center;
-    background-color: white;
+    background-color: lightcoral;
     color: black;
     text-decoration: none;
 }
 nav a:hover{
     color: blueviolet;
-    background-color: white;
+    background-color: lightcoral;
 }
 .home-title {
     color: black;
