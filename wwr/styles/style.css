@@ -181,6 +181,8 @@ footer a:hover {
 footer p a:hover {
     text-decoration: underline;
 }
+/* FAQ CSS */
+
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
